@@ -12,8 +12,17 @@ import { DataProvider } from './context/DataContext';
 
 function App() {
 
-/*  Server install
- //npx json-server -p 3500 -w data/db.json */
+/* Axios install in terminal 
+ // npm i axios
+*/
+
+/* react icons install in terminal
+ // npm i react-icons
+*/
+
+/*  Server install in terminal
+ // npx json-server -p 3500 -w data/db.json 
+*/
   
   return (
     <div className="App">
